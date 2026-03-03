@@ -24,15 +24,17 @@ These datasets contain booking details, hotel information, room categories, and 
 
 Key Insights Derived
 
-Booking platform distribution
-Revenue distribution patterns
-Room category performance comparison
-Average occupancy rate by room class
+Booking platform distribution,
+Revenue distribution patterns,
+Room category performance comparison,
+Average occupancy rate by room class,
 Identification of capacity inconsistencies in raw data
 
 Business Metrics Calculated
 
-Total successful bookings per property
-Revenue statistics (mean, median, min, max)
+Total successful bookings per property,
+Revenue statistics (mean, median, min, max),
+Occupancy percentage,
+Capacity utilization insights
 Occupancy percentage
 Capacity utilization insights
